@@ -1,0 +1,18 @@
+[
+   {
+      "id": "ca639448-e12d-44f6-aebf-6a0d72fecb34",
+      "rol": "admin",
+      "name": "Pablo",
+      "surname": "Mas",
+      "email": "pablo.mas.dev@gmail.com",
+      "password": "$2a$10$7BLkuaNNIFEKmKJdpgvD7u2B0SituIm/eWeMq94byl9iWnuoHmBXu"
+   },
+   {
+      "id": "a0c876e8-2545-45a0-b40a-ba9dd6b48385",
+      "rol": "user",
+      "name": "usuario",
+      "surname": "random",
+      "email": "user@gmail.com",
+      "password": "$2a$10$6pYRjXWHfrAWnHSdnP.zDucjEsEoIfupb56HVBTVW83nly.FxZIZ6"
+   }
+]

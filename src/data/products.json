@@ -1,0 +1,72 @@
+[
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9-f88a6dcad1f03698741",
+      "name": "Iphone 12",
+      "brand": "Apple",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 200,
+      "discount": 10,
+      "image": "1692313301175_products_.png",
+      "createdAt": "2023-08-17T23:01:41.185Z"
+   },
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9-f88a6dcad1f0147",
+      "name": "Samsung A21s",
+      "brand": "Samsung",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 125,
+      "discount": 5,
+      "image": "1692313219437_products_.jpg",
+      "createdAt": "2023-08-17T23:00:19.448Z"
+   },
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9-f88a6dcad1f0987",
+      "name": "Motorolla G",
+      "brand": "Motorola",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 119,
+      "discount": 8,
+      "image": "1692313337950_products_.jpg",
+      "createdAt": "2023-08-17T23:02:17.957Z"
+   },
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9-f88a6dcad1f0asd15",
+      "name": "Nokia 1100",
+      "brand": "Nokia",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 1000,
+      "discount": 0,
+      "image": "1692313308310_products_.png",
+      "createdAt": "2023-08-17T23:01:48.319Z"
+   },
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9-f88a6dcad1f0156454",
+      "name": "Xiaomi 11",
+      "brand": "Xiaomi",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 134,
+      "discount": 0,
+      "image": "1692313240742_products_.jpg",
+      "createdAt": "2023-08-17T23:00:40.750Z"
+   },
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9-f88a6dcad1f0123",
+      "name": "Asus Gamer",
+      "brand": "ASUS",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 250,
+      "discount": 10,
+      "image": "1692313344999_products_.jpg",
+      "createdAt": "2023-08-17T23:02:25.004Z"
+   },
+   {
+      "id": "de1a6154-f0b3-4ecb-a5a9asd-f88a6dcad1f0",
+      "name": "Philips 20",
+      "brand": "Phillips",
+      "description": "Lorem ipsum dolor amet sit",
+      "price": 250,
+      "discount": 10,
+      "image": "1692313126375_products_.jpg",
+      "createdAt": "2023-08-17T22:58:46.383Z"
+   }
+]
